@@ -19,4 +19,4 @@
  
 Шрифт - Gora Free
  
-Создано на Python с использование библиотеки arcade - api.arcade.academy
+Создано на Python с использование библиотеки arcade - https://api.arcade.academy

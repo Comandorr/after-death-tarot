@@ -14,4 +14,5 @@
 
 Использована графика колоды карт The Marigold Tarot от Amrit Brar (https://13thpress.com/) и генерация от DALLE-3
 Музыка: Heilung - Krigsgaldr
+Шрифт - Gora Free
 Создано на Python с использование библиотеки arcade - api.arcade.academy
